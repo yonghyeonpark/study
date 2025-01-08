@@ -38,3 +38,7 @@
 - **connectionTimeout**
     - 풀에서 커넥션을 받기 위한 대기 시간입니다.
     - 사용자의 일반적인 대기 시간을 고려하여 적절히 설정해야 합니다.
+
+## 참고
+
+- [쉬운코드 - DBCP](https://www.youtube.com/watch?v=zowzVqx3MQ4&pp=ygUR7Ims7Jq07L2U65OcIGRiY3A%3D)

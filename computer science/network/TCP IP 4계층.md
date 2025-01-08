@@ -144,3 +144,8 @@
   2. 목적지 `MAC 주소`
   3. 출발지 `MAC 주소`
   4. `Frame Check Sequence` : 오류 검출을 위한 체크섬
+
+
+## 참고
+
+- [TCP/IP 쉽게, 더 쉽게](https://www.yes24.com/product/goods/32203210)
