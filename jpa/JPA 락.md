@@ -57,7 +57,7 @@
 
 ### PESSIMISTIC_READ
 
-- 공유락을 사용합니다. (`SELECT … FOR SHARE`)
+- 공유 락을 사용합니다. (`SELECT … FOR SHARE`)
 
 ### PESSIMISTIC_FORCE_INCREMENT
 
