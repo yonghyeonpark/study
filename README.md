@@ -37,6 +37,6 @@
 - [OSIV(Open Session In View)](https://github.com/yonghyeonpark/study/blob/main/jpa/OSIV(Open%20Session%20In%20View).md)
 - [기본 키 생성 전략](https://github.com/yonghyeonpark/study/blob/main/jpa/%EA%B8%B0%EB%B3%B8%20%ED%82%A4%20%EC%83%9D%EC%84%B1%20%EC%A0%84%EB%9E%B5.md)
 - [변경 감지(Dirty Checking)](https://github.com/yonghyeonpark/study/blob/main/jpa/%EB%B3%80%EA%B2%BD%20%EA%B0%90%EC%A7%80(Dirty%20Checking).md)
-- [영속성 컨텍스트와 엔티티 매니저](https://github.com/yonghyeonpark/study/blob/main/jpa/%EC%98%81%EC%86%8D%EC%84%B1%20%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8%EC%99%80%20%EC%97%94%ED%84%B0%ED%8B%B0%20%EB%A7%A4%EB%8B%88%EC%A0%80.md)
+- [영속성 컨텍스트와 엔티티 매니저](https://github.com/yonghyeonpark/study/blob/main/jpa/%EC%98%81%EC%86%8D%EC%84%B1%20%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8%EC%99%80%20%EC%97%94%ED%8B%B0%ED%8B%B0%20%EB%A7%A4%EB%8B%88%EC%A0%80.md)
 - [자바 데이터베이스 접근 기술](https://github.com/yonghyeonpark/study/blob/main/jpa/%EC%9E%90%EB%B0%94%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4%20%EC%A0%91%EA%B7%BC%20%EA%B8%B0%EC%88%A0.md)
 - [페치 조인(Fetch Join)](https://github.com/yonghyeonpark/study/blob/main/jpa/%ED%8E%98%EC%B9%98%20%EC%A1%B0%EC%9D%B8(Fetch%20Join).md)
