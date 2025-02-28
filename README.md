@@ -25,6 +25,7 @@
 - [DataSource](https://github.com/yonghyeonpark/study/blob/main/java/DataSource.md)
 - [Error와 Exception](https://github.com/yonghyeonpark/study/blob/main/java/Error%EC%99%80%20Exception.md)
 - [동기화](https://github.com/yonghyeonpark/study/blob/main/java/%EB%8F%99%EA%B8%B0%ED%99%94.md)
+- [동일성과 동등성](https://github.com/yonghyeonpark/study/blob/main/java/%EB%8F%99%EC%9D%BC%EC%84%B1%EA%B3%BC%20%EB%8F%99%EB%93%B1%EC%84%B1.md)
 
 # Spring
 
