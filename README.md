@@ -26,8 +26,9 @@
 - [Array, ArrayList, LinkedList](https://github.com/yonghyeonpark/study/blob/main/java/Array%2C%20ArrayList%2C%20LinkedList.md)
 - [DataSource](https://github.com/yonghyeonpark/study/blob/main/java/DataSource.md)
 - [Error와 Exception](https://github.com/yonghyeonpark/study/blob/main/java/Error%EC%99%80%20Exception.md)
-- [동기화](https://github.com/yonghyeonpark/study/blob/main/java/%EB%8F%99%EA%B8%B0%ED%99%94.md)
 - [동일성과 동등성](https://github.com/yonghyeonpark/study/blob/main/java/%EB%8F%99%EC%9D%BC%EC%84%B1%EA%B3%BC%20%EB%8F%99%EB%93%B1%EC%84%B1.md)
+- [자바 동기화](https://github.com/yonghyeonpark/study/blob/main/java/%EC%9E%90%EB%B0%94%20%EB%8F%99%EA%B8%B0%ED%99%94.md)
+- [자바 메모리 구조](https://github.com/yonghyeonpark/study/blob/main/java/%EC%9E%90%EB%B0%94%20%EB%A9%94%EB%AA%A8%EB%A6%AC%20%EA%B5%AC%EC%A1%B0.md)
 
 # Spring
 
