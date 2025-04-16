@@ -29,10 +29,12 @@
 - [동일성과 동등성](https://github.com/yonghyeonpark/study/blob/main/java/%EB%8F%99%EC%9D%BC%EC%84%B1%EA%B3%BC%20%EB%8F%99%EB%93%B1%EC%84%B1.md)
 - [자바 동기화](https://github.com/yonghyeonpark/study/blob/main/java/%EC%9E%90%EB%B0%94%20%EB%8F%99%EA%B8%B0%ED%99%94.md)
 - [자바 메모리 구조](https://github.com/yonghyeonpark/study/blob/main/java/%EC%9E%90%EB%B0%94%20%EB%A9%94%EB%AA%A8%EB%A6%AC%20%EA%B5%AC%EC%A1%B0.md)
+- [접근 제어자](https://github.com/yonghyeonpark/study/blob/main/java/%EC%A0%91%EA%B7%BC%20%EC%A0%9C%EC%96%B4%EC%9E%90.md)
 
 # Spring
 
 - [IoC, DI, 컨테이너](https://github.com/yonghyeonpark/study/blob/main/spring/IoC%2C%20DI%2C%20%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88.md)
+- [스프링 트랜잭션](https://github.com/yonghyeonpark/study/blob/main/spring/%EC%8A%A4%ED%94%84%EB%A7%81%20%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98.md)
 
 # JPA
 
