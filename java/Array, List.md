@@ -1,4 +1,4 @@
-# Array, ArrayList, LinkedList
+# Array, List
 
 ## 배열(Array)
 
@@ -12,7 +12,7 @@
 - 크기를 동적으로 조절하여 배열의 크기 제한 문제를 해결한 자료구조입니다.
 - 내부적으로 일반 배열을 사용하고, 저장 공간이 부족하면 더 큰 크기의 배열을 할당하여 데이터를 복사합니다.
 
-### Java의 ArrayList
+### 자바의 ArrayList
 - 공간의 처음 크기는 `10`입니다.
 - 저장 공간이 부족하면, 현재 크기의 `1.5`배 크기를 가진 새로운 배열을 생성하고 기존 데이터를 복사합니다.
 - 이때, `System.arraycopy()`를 사용해 메모리 고속 복사 연산을 수행합니다.
@@ -26,7 +26,7 @@
 - 자료구조에서 설명하는 `LinkedList`는 `단일 연결 리스트`입니다.
 - **성능**<br><img src="https://github.com/user-attachments/assets/1c1cecd6-2398-4b31-b1c7-e9085842a46d">
 
-### Java의 LinkedList
+### 자바의 LinkedList
 - `이중 연결 리스트`로 구현되어 있어 양방향 탐색이 가능합니다.
 - 첫 노드와 마지막 노드에 대한 참조를 모두 가집니다.
 - 성능<br><img src="https://github.com/user-attachments/assets/ce267105-a878-4da8-9908-8fabe09e2715">
